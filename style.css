@@ -1,6 +1,6 @@
 .bg-image{
     background-image: url(..//img/pattern.png);
-    background-repeat: repeat-x;
+    background-repeat: repeat;
     width: 500px;
     height: 150px;
     background-color: #238aea;

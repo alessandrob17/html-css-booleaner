@@ -1,11 +1,9 @@
-
-
 .bg-image{
-background-image: url(..//img/pattern.png);
-background-repeat: repeat-x;
-width: 500px;
-height: 150px;
-background-color: #238aea;
+    background-image: url(..//img/pattern.png);
+    background-repeat: repeat-x;
+    width: 500px;
+    height: 150px;
+    background-color: #238aea;
 }
 .booleaner-logo{
     width: 300px;
@@ -16,20 +14,16 @@ background-color: #238aea;
 .booleaner{
     color:#238aea;
 }
-
 .italic{
     font-style: italic;
 }
-
 .riga-tabella{
     background-color: #238aea;
     color: white;
 }
-
 .cell-table{
     background-color: #82beed;
 }
-
 .highlight{
     background-color: yellow;
 }

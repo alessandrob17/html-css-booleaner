@@ -6,12 +6,10 @@ background-repeat: repeat-x;
 width: 500px;
 height: 150px;
 background-color: #238aea;
-
 }
 .booleaner-logo{
     width: 300px;
 }
-
 .scritto-grey{
     color: grey;
 }
@@ -34,4 +32,18 @@ background-color: #238aea;
 
 .highlight{
     background-color: yellow;
+}
+.tim-uno{
+    background-image: url(../img/monitor.jpg);
+    width: 250px;
+    height: 250px;
+    color: white;
+    font-size: 20px;
+}
+.tim-due{
+    background-image: url(../img/graph.jpg);
+    width: 250px;
+    height: 250px;
+    color: white;
+    font-size: 20px;
 }
